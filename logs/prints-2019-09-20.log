@@ -1,0 +1,7 @@
+13:09:53.040 [main] INFO  org.jsoup.Connection$Base - user clicked on submit button
+13:09:53.091 [main] ERROR org.jsoup.Connection$Base - invalid credentials
+14:57:35.709 [main] INFO  org.jsoup.Connection$Base - driver is initialized
+14:57:43.426 [main] INFO  org.jsoup.Connection$Base - navigated to homepage
+14:57:47.403 [main] INFO  org.jsoup.Connection$Base - invalidemail is id entered
+14:57:47.521 [main] INFO  org.jsoup.Connection$Base - password is entered
+14:57:48.845 [main] INFO  org.jsoup.Connection$Base - user clicked on submit button
